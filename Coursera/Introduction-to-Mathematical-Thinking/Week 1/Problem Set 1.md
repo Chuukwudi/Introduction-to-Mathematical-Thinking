@@ -49,13 +49,25 @@ Assuming you know nothing more about Alice, which of (a) – (e) is most likely?
 
 <details>
     <summary> Answer </summary>
-        <p> (f) None of these is more or less likely.
+        <p> (e) Alice works in a bank.\
         </p>
 </details>
 
 Question 7
 ----------
-Same question as Question 6
+Assuming you know nothing more about Alice, which of (a) – (e) is most likely? (Or does (f) hold?)\
+(a) Alice is a rock star or works in a bank.\
+(b) Alice is quiet and works in a bank.\
+(c) Alice is a rock star.\
+(d) Alice is honest and works in a bank.\
+(e) Alice works in a bank.\
+(f) There is no definite answer.
+
+<details>
+    <summary> Answer </summary>
+        <p> (a) Alice is a rock star or works in a bank.\
+        </p>
+</details>
 
 Question 8
 ----------
@@ -72,6 +84,12 @@ Identify which of the following are true (where x denotes an arbitrary real numb
 (i) If (x > 0 ∨ x < 0) then x ≠ 0 <span style="color:red">TRUE</span>.\
 (j) If x² = 9 then (x = 3 ∨ x = −3) <span style="color:red">TRUE</span>.
 
+Fancy Question
+--------------
+You've arrived late at an airport. You're rushing to catch your plane. Unfortunately, your gate is at the far end of the terminal. The fastest you can walk is a constant speed of four miles per hour. For part of the way, there is a moving walkway moving at two miles per hour. You decide to take the walkway and continue to walk. So you're going to walk all the way, but part of, when there's a walkway you're going to walk on the walkway so you can go faster, right? Just as you're about to step onto the walkway, you notice your shoelace is loose. And the last thing is you want to do is get your shoelace caught in the mechanism of the walkway. So you've got a choice. You either stop and fasten your shoelace just before you step on the walkway, or you step on the walkway and then stop to fasten your shoelace whilst the walkway is moving you along. And there's no other options. Those are the two options you have. Which option will get you to the gate fastest? 
 
-
-
+<details>
+    <summary> Answer </summary>
+        <p> Obviously, the fastest way is to first step on the moving walk way then tie your shoe lace. When you are done tieing, you can start walking even while still on the moving walk way. One gains so much time doing this than taking the tieing first before steppiong on the moving walk way.
+        </p>
+</details>

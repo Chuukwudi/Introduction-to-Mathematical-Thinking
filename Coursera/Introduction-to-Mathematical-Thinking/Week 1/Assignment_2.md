@@ -9,7 +9,7 @@ Question 1
     2. (p ≥ 7) ∧ (p < 12) &nbsp; &nbsp;[Answer: 7 ≤ p < 12.]
     3. (x > 5) ∧ (x < 7) &nbsp; &nbsp; &nbsp;[Answer: 5 < x < 7.]
     4. (x < 4) ∧ (x < 6) &nbsp; &nbsp; &nbsp;[Answer: x < 4.]
-    5. (y < 4) ∧ (y² < 9) &nbsp; &nbsp; [Answer: y < 3.]
+    5. (y < 4) ∧ (y² < 9) &nbsp; &nbsp; [Answer: -3 < y < 3.]
     6. (x ≥ 0) ∧ (x ≤ 0) &nbsp; &nbsp; &nbsp;[Answer: x = 0 ]
     
 Question 2
@@ -41,7 +41,7 @@ Question 5
     2. (x < 0) ∨ (x > 0) &nbsp; &nbsp; &nbsp; [Answer: x ≠ 0]
     3. (x = 0) ∨ (x > 0) &nbsp; &nbsp; &nbsp; [Answer: x ≥ 0]
     4. (x > 0) ∨ (x ≥ 0) &nbsp; &nbsp; &nbsp; [Answer: x ≥ 0]
-    5. (x > 3) ∨ (x² > 9) &nbsp; &nbsp; &nbsp;[Answer: x > 3]
+    5. (x > 3) ∨ (x² > 9) &nbsp; &nbsp; &nbsp;[Answer: x² > 3]
    
  Question 6
 ---------
@@ -67,7 +67,7 @@ Question 8
 Question 9
 ---------
 9.  Simplify the following symbolic statements as much as you can, leaving your answer in a standard symbolic form (assuming you are familiar with the notation):
-    1. ¬(π > 3.2) &nbsp; [Answer: π ≤ 3]
+    1. ¬(π > 3.2) &nbsp; [Answer: π ≤ 3.2]
     2. ¬(x < 0) &nbsp; &nbsp; &nbsp; [Answer: x ≥ 0]
     3. ¬(x² > 0) &nbsp; &nbsp; &nbsp;[Answer: x = 0]
     4. ¬(x = 1) &nbsp; &nbsp; &nbsp; [Answer: x ≠ 1]

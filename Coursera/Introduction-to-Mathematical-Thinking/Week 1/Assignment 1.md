@@ -131,6 +131,12 @@ where p1, p2, p3, . . . , pn , . . . is the list of all prime numbers?
 
 <details>
     <summary> Answer </summary>
+    <p> This is related to Euclid's proof that there are infinitely many
+primes. Find an n for which (p1 ... pn) + 1 is not prime.</p>
+<p>(2 x 3) + 1 = 7 (7 is prime)</p>
+<p>(2 x 3 x 5) + 1 = 31 (31 is prime)</p>
+<p>(2 x 3 x 5 x 7) + 1 = 211 (211 is prime)</p>
+<p>(2 x 3 x 5 x 7 x 11 x 13) + 1 = 30031 (30031 is not prime because 59 x 509)</p>
 </details>
 
 
