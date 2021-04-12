@@ -8,7 +8,7 @@ Question 1
  (a) n is divisible by 3. &#x2714;\
  (b) n is divisible by 9.\
  (c) n is divisible by 12.\
- (d) n = 24.
+ (d) n = 24.\
  (e) n² is divisible by 3.&#x2714;\
  (f) n is even and divisible by 3. &#x2714;
  
@@ -20,8 +20,8 @@ Which  of  the  following  conditions  are sufficient for  the  natural  number 
 Select all those you believe are sufficient.\
 (a) n is divisible by 3.\
 (b) n is divisible by 9.\
-(c) n is divisible by 12.\
-(d) n = 24.\
+(c) n is divisible by 12. &#x2714;\
+(d) n = 24. &#x2714;\
 (e) n² is divisible by 3. \
 (f) n is even and divisible by 3. &#x2714;
 
@@ -32,8 +32,8 @@ Which  of  the  following  conditions  are _necessary  and  sufficient_ for  the
  Select all those you believe are necessary.\
  (a) n is divisible by 3.\
  (b) n is divisible by 9.\
- (c) n is divisible by 12. &#x2714;\
- (d) n = 24. &#x2714;\
+ (c) n is divisible by 12.\
+ (d) n = 24.\
  (e) n² is divisible by 3.\
  (f) n is even and divisible by 3. &#x2714;
 
@@ -117,10 +117,10 @@ Question 13
 Question 14
 -----------
  Which of the following pairs of propositions are equivalent?\
- (a) ¬P∨Q , P⇒Q\
+ (a) ¬P∨Q , P⇒Q &#x2714;\
  (b) ¬(P∨Q), ¬P∧¬Q &#x2714;\
  (c) ¬P∨¬Q , ¬(P∨¬Q)\
- (d) ¬(P∧Q), ¬P∨¬Q\
+ (d) ¬(P∧Q), ¬P∨¬Q &#x2714;\
  (e) ¬(P⇒(Q∧R)), ¬(P⇒Q)∨¬(P⇒R) &#x2714;\
  (f) P⇒(Q⇒R), (P∧Q) ⇒ R &#x2714;
  
